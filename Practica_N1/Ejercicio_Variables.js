@@ -10,3 +10,8 @@ Ejercicios Variables y Tipos de Variables:
     Un booleano llamado myBoolean que contiene el valor false, libre.
 */
 
+var myNumber = 25;
+const firstName = "Liced Lorena";
+const lastName = "Toro Cataño";
+let myBoolean = false;
+
